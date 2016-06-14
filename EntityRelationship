@@ -1,0 +1,19 @@
+
+Modelo Entidade-Relacionamento
+
+Entidade > representa algo do mundo real, usando uma notação previamente definida.
+
+Relacioamento > representa as associações entre entidades.
+
+Atributos > representam as características de uma entidade.
+
+Atributos podem ser:
+
+- Simples;
+- Compostos.
+
+- Monovalorados;
+- Multivalorados.
+
+- Armazenados;
+- Inferências.
