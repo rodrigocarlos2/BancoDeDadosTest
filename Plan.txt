@@ -1,0 +1,5 @@
+Begin: Minimundo / Levantamento e Análise dos Sistema.
+
+Half: Levatamento e Projeção dos Requisitos de Dados.
+
+End: Projeto e Modelagem (Projeto Conceitual e Lógico).
