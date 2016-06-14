@@ -1,0 +1,11 @@
+
+
+Operações relacionais unárias:
+
+Projeção dos Atributos:
+
+select * from NameTable;
+
+Projetão e Seleção dos atributos:
+
+select * from NameTable where (Condition);
